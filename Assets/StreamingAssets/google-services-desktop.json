@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173410970500",
+    "project_id": "start-86ada",
+    "storage_bucket": "start-86ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173410970500:android:8e00ca72a2a5bf80e4cbd1",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173410970500-2ms23i68oscfuk1l1u38e2q3eajq3uh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7b57so3168lFDd_wFCbAzQeLuuGX2oxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173410970500-2ms23i68oscfuk1l1u38e2q3eajq3uh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
